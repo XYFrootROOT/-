@@ -1,0 +1,6 @@
+{
+  "name": "剪映 Studio - AI Video Editor",
+  "description": "类似剪映的多轨道视频剪辑工具，支持AI智能字幕识别、多轨编辑、特效滤镜、主流分辨率适配与实时导出预览。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
